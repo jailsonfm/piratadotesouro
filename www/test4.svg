@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 914 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-273.567,-300.989)">
+        <g transform="matrix(0.614948,0,0,1,205.852,0)">
+            <rect x="110.115" y="301.819" width="424.493" height="40.216" style="fill:url(#_Linear1);"/>
+        </g>
+        <g transform="matrix(0.614948,0,0,1,857.821,0)">
+            <rect x="110.115" y="301.819" width="424.493" height="40.216" style="fill:url(#_Linear2);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,392.375,73.8756)">
+            <text x="142.233px" y="267.47px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:50px;fill:rgb(215,54,54);">PIRA<tspan x="231.295px 252.34px " y="267.47px 267.47px ">TA</tspan></text>
+            <text x="286.544px" y="267.47px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:50px;fill:rgb(234,170,6);">DO</text>
+            <text x="350.314px" y="267.47px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:50px;fill:rgb(29,38,238);">TESOURO</text>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(424.493,0,0,40.2164,110.115,321.927)"><stop offset="0" style="stop-color:rgb(43,120,239);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(215,54,54);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(424.493,0,0,40.2164,110.115,321.927)"><stop offset="0" style="stop-color:rgb(43,120,239);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(215,54,54);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
